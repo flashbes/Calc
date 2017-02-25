@@ -8,8 +8,8 @@ public class Test_1 {
 
 	@Test
 	public void testSumma() {
-		double res = Calc_oper.C_op(1, "+", 9);
-		assertEquals(10,res,0);
+		double res = Calc_oper.C_op(1, "+", 9);//присваевается результат от метода C_op класса Calc_oper
+		assertEquals(10,res,0);//сравнивается ожидаемый результат с результатом от метода C_op класса Calc_oper
 	}
 
 }
