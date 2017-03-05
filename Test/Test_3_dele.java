@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import Calculjator.a.Calc_oper;
 
-public class test2 {
+public class Test_3_dele {
 
 	@Test
 	public void test() {
