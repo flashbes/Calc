@@ -2,7 +2,7 @@ import static org.junit.Assert.*;
 
 import Calculjator.a.Calc_oper;
 
-public class Test {
+public class Test_2_razn {
 
 	@org.junit.Test
 	public void test() {
